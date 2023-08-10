@@ -1,3 +1,4 @@
+```
 # docker pull paths 
 http://ccts3.aws.chboston.org:5151/computationalradiology/dicom-tools # inc dcmdump... check if it has retreive script 
 http://ccts3.aws.chboston.org:5151/computationalradiology/crkit:latest
@@ -28,3 +29,6 @@ alias mwf=""
 
 
 
+
+
+```
